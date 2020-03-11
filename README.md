@@ -1,2 +1,2 @@
 # click-kingdom
-An open source clicker game.
+An open source JavaScript clicker game.
